@@ -1,5 +1,5 @@
 {
-  "name": "2checkout/2checkout-php-sdk",
+  "name": "2checkoutv2/2checkout-php-sdk",
   "type": "library",
   "description": "2Checkout PHP SDK by Verifone",
   "keywords": ["2Checkout", "Verifone","2co","payment","gateway"],
